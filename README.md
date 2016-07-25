@@ -1,3 +1,5 @@
+<h2> Simple Social Network </h2>
+
 This repository contains code from my final class project for an introductory CS course,
 which I have saved here for my own personal reference. 
 
